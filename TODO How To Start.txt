@@ -39,6 +39,7 @@ By week 10:
 - Write Pizza class.
 
 By week 11:
+- Write Order class
 - Write PizzaShop class. 
 - Test thoroughly.
 
